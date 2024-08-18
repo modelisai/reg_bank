@@ -2,11 +2,11 @@
 
 ## AI-powered Regulatory Analysis and Knowledge Base for AI and GenAI Regulations
 
-reg_bank is an innovative project aimed at leveraging artificial intelligence to monitor, analyze, and provide insights on the rapidly evolving landscape of AI and GenAI regulations across various jurisdictions.
+reg_bank is aimed at leveraging artificial intelligence to monitor, analyze, and provide insights on the rapidly evolving landscape of AI and GenAI regulations across various jurisdictions.
 
 ### Project Description
 
-In the fast-paced world of artificial intelligence and generative AI, keeping up with regulatory changes can be challenging. reg_bank addresses this challenge by creating an AI-driven system that:
+Given the fast pace of artificial intelligence and generative AI, keeping up with regulatory changes can be challenging. reg_bank addresses this challenge by creating an AI-driven system that:
 
 1. Continuously searches for and identifies new AI and GenAI regulations worldwide.
 2. Analyzes the implications and key points of these regulations.
