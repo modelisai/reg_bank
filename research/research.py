@@ -38,7 +38,7 @@ def run_research(topic):
 # Streamlit UI
 st.title('AI News Research Tool')
 
-topic = st.text_input('Enter a topic to research:', 'Olympics')
+topic = st.text_input('Enter a topic to research:', 'AI Regulations')
 
 if st.button('Run Research'):
     with st.spinner('Researching... This may take a few minutes.'):
